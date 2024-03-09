@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hiddennodes/static/css/main.0ae36e84.css",
-    "main.js": "/hiddennodes/static/js/main.94b7b69b.js",
+    "main.js": "/hiddennodes/static/js/main.7e77697d.js",
     "static/media/gsds_logo.png": "/hiddennodes/static/media/gsds_logo.8f282084772329ca350a.png",
     "static/media/viba_logo2.png": "/hiddennodes/static/media/viba_logo2.8ea0aeded7e9a4082594.png",
     "index.html": "/hiddennodes/index.html",
     "main.0ae36e84.css.map": "/hiddennodes/static/css/main.0ae36e84.css.map",
-    "main.94b7b69b.js.map": "/hiddennodes/static/js/main.94b7b69b.js.map"
+    "main.7e77697d.js.map": "/hiddennodes/static/js/main.7e77697d.js.map"
   },
   "entrypoints": [
     "static/css/main.0ae36e84.css",
-    "static/js/main.94b7b69b.js"
+    "static/js/main.7e77697d.js"
   ]
 }
